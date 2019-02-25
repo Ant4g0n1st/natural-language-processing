@@ -1,12 +1,13 @@
 from bs4 import BeautifulSoup
-import nltk
-import re
 
 name = input('Nombre del archivo : ')
 
 f = open(name)
 raw = BeautifulSoup(f.read(), 'html.parser').get_text()
 f.close()
+
+import nltk
+import re
 
 word_regex = re.compile(r'^\w+[\n]*$')
 digit_regex = re.compile(r'^\d+$')
@@ -41,4 +42,52 @@ text = nltk.Text(tokens)
 
 freq = nltk.FreqDist(text)
 
-freq.plot(25)
+f = open('frequency.txt', 'w')
+for x, y in freq.most_common():
+    f.write(x + " " + str(y) + "\n")
+f.close()
+
+#freq.plot(25)
+
+vocabulary = sorted(set(tokens))
+n = len(vocabulary)
+index = dict()
+
+for k in range(0, n):
+    index[vocabulary[k]] = k
+
+context = [[0 for x in range(0, n)] for x in range(0, n)]
+indexes = [index[x] for x in tokens]
+m = len(indexes)
+w = 4 # For window-8
+
+for k in range(0, m):
+    for l in range(1, w + 1):
+        if k - l > 0:
+            context[indexes[k]][indexes[k - l]] += 1
+        if k + l < m:
+            context[indexes[k]][indexes[k + l]] += 1
+
+#for k in range(0, n):
+#    s = sum(context[k])
+#    context[k] = list(map(lambda x : x / s, context[k]))
+
+import numpy
+
+word = input('Ingrese la palabra : ')
+p = []
+
+for k in range(0, n):
+    c = numpy.dot(context[index[word]], context[k])
+    c = c / numpy.linalg.norm(context[index[word]])
+    c = c / numpy.linalg.norm(context[k])
+    p.append((c, k))
+
+p = sorted(p)
+p.reverse()
+
+f = open('similar.txt', 'w')
+for (x, y) in p:
+    f.write(vocabulary[y] + "\t" + str(x) + "\n")
+f.close()
+
