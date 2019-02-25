@@ -34,3 +34,6 @@
 # HTML
 *.html
 *.htm
+
+# Mac Stuff
+*.DS_Store
