@@ -44,7 +44,7 @@ freq = nltk.FreqDist(text)
 
 f = open('frequency.txt', 'w')
 for x, y in freq.most_common():
-    f.write(F"{ x } { y }\n")
+    f.write(x + " \t " + str(y) + "\n")
 f.close()
 
 vocabulary = sorted(set(tokens))
@@ -87,10 +87,13 @@ while True:
     p = sorted(p)
     p.reverse()
 
-    f = open(F'similar-to-{ word }.txt', 'w')
+    f = open("similar-to-" + word + ".txt", 'w')
     for (x, y) in p:
-        f.write(F"{ vocabulary[y] } \t { x }\n")
+        f.write(vocabulary[y] + " \t " + str(x) + "\n")
     f.close()
+
+    if input('¿Desea intentar de nuevo? [Y, N] : ').strip().lower() == "y":
+        continue
 
     break
 
