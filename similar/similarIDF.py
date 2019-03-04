@@ -102,6 +102,7 @@ for k in range(0, n):
 context = [[0 for y in range(0, n)] for x in range(0, n)]
 
 nouns = sorted([index[x] for x in nouns])
+contextCount = [0 for x in range(0, n)]
 indices = [index[x] for x in tokens]
 
 m = len(indices)
@@ -111,18 +112,20 @@ for k in range(0, m):
     for l in range(1, w + 1):
         if k - l > 0:
             context[indices[k]][indices[k - l]] += 1
+            contextCount[indices[k - l]] += 1
         if k + l < m:
             context[indices[k]][indices[k + l]] += 1
+            contextCount[indices[k + l]] += 1
 
-valid = [False for x in range(0, n)]
-for x in nouns:
-    valid[x] = True
+#valid = [False for x in range(0, n)]
+#for x in nouns:
+#    valid[x] = True
+
+idf = [math.log((m + 1) / x) for x in contextCount]
 
 for k in range(0, n):
     for l in range(0, n):
-        if not valid[l]:
-            context[k][l] = 0
-        context[k][l] = math.log1p(context[k][l])
+        context[k][l] = math.log1p(context[k][l]) * idf[l]
 
 while True:
 
@@ -134,14 +137,10 @@ while True:
     
     p = []
 
-    for k in range(0, n):
+    for k in nouns: 
         c = numpy.dot(context[index[word]], context[k])
-        d = numpy.linalg.norm(context[index[word]])
-        if d > 0:
-            c = c / d
-        d = numpy.linalg.norm(context[k])
-        if d > 0:
-            c = c / d
+        c = c / numpy.linalg.norm(context[index[word]])
+        c = c / numpy.linalg.norm(context[k])
         p.append((c, k))
 
     p = sorted(p)
