@@ -1,3 +1,4 @@
+from bs4 import BeautifulSoup
 import pickle
 import nltk
 import re
@@ -65,10 +66,14 @@ f.close()
 word_regex = re.compile(r'^\w+[\n]*$')
 digit_regex = re.compile(r'^\d+$')
 
-stop = LoadStopwords()
+#stop = LoadStopwords()
 stemMap = LoadStems()
 
+untagged = []
+
+#for sentence in sent_tokenizer.tokenize(raw):
 while True:
+    
     sentence = input('Ingrese una oración: ')
 
     sentTokens = list(map(lambda x : x.lower(), nltk.word_tokenize(sentence)))
@@ -82,4 +87,12 @@ while True:
     sentTokens = [stemMap.get(x, x) for x in sentTokens]
 
     print(tagger.tag(sentTokens))
+
+"""
+    for (w, tag) in tagger.tag(sentTokens):
+        if tag == None:
+            untagged.append(w[::-1]);
+
+print("\n".join(map(lambda x : x[::-1], sorted(set(untagged)))));
+"""
 
