@@ -144,11 +144,11 @@ for k in range(0, m):
 idf = [math.log((m + 1) / x) for x in contextCount]
 
 try:
-    f = open(name.split('.')[0] + '.pkl', 'rb')
+    f = open(name.split('.')[0] + '.precomputed.pkl', 'rb')
     context = pickle.load(f)
     f.close()
 except:
-    f = open(name.split('.')[0] + '.pkl', 'wb')
+    f = open(name.split('.')[0] + '.precomputed.pkl', 'wb')
     context = BM25(context)  
     pickle.dump(context, f)
     f.close()

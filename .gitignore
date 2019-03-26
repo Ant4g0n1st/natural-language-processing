@@ -1,43 +1,14 @@
-# Prerequisites
-*.d
+# Python Objects
+*.precomputed.pkl
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Outputs
+syntagmatic*.txt
+similar*.txt
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# Mac Stuff
+*.DS_Store
 
 # HTML
 *.html
 *.htm
 
-# Mac Stuff
-*.DS_Store
-
-# Outputs
-similar*.txt
-syntagmatic*.txt
