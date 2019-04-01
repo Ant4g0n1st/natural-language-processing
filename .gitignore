@@ -5,6 +5,9 @@
 syntagmatic*.txt
 similar*.txt
 
+*-entropy.txt
+*-mi.txt
+
 # Mac Stuff
 *.DS_Store
 
