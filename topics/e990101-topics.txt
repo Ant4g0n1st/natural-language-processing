@@ -1,0 +1,248 @@
+Topics for Article #1
+
+0.2824*monseñor + 0.2824*altura + 0.2074*crítico + 0.1507*padre + 0.0835*editorial + 0.0054*nota + 0.0000*órgano + 0.0000*órbita + 0.0000*índole + 0.0000*índice + 0.0000*éxito + 0.0000*ética + 0.0000*época + 0.0000*área + 0.0000*árbol + 0.0000*árbitro + 0.0000*ánimo + 0.0000*ámbito + 0.0000*zona + 0.0000*zar + 0.0000*víspera + 0.0000*víctima + 0.0000*vía + 0.0000*vuelo + 0.0000*voz
+
+Topics for Article #2
+
+0.0248*tío + 0.0248*prestación + 0.0219*fortuna + 0.0219*explotación + 0.0217*uña + 0.0217*plusvalía + 0.0217*ocio + 0.0217*huelga + 0.0217*escaramuza + 0.0217*chico + 0.0217*antigüedad + 0.0217*acumulación + 0.0182*vecino + 0.0181*vestido + 0.0181*técnico + 0.0181*trámite + 0.0181*tope + 0.0181*renuncia + 0.0181*pregunta + 0.0181*herramienta + 0.0181*gabinete + 0.0181*contrato + 0.0181*canon + 0.0159*vacación + 0.0159*salario
+
+Topics for Article #3
+
+0.0321*sinceridad + 0.0321*renovadores + 0.0321*litro + 0.0321*leche + 0.0321*humanismo + 0.0321*demagogia + 0.0321*antesala + 0.0267*tierra + 0.0267*presentación + 0.0267*mitad + 0.0267*libro + 0.0267*fracaso + 0.0267*boca + 0.0251*pobreza + 0.0236*tortilla + 0.0236*gobernabilidad + 0.0236*escuela + 0.0236*contenido + 0.0236*brazo + 0.0214*gente + 0.0214*color + 0.0196*regreso + 0.0196*pluralismo + 0.0196*naturaleza + 0.0196*crítica
+
+Topics for Article #4
+
+0.0365*atraso + 0.0362*varón + 0.0362*densidad + 0.0356*pareja + 0.0356*niña + 0.0330*edad + 0.0319*prohibición + 0.0316*tristeza + 0.0316*revista + 0.0316*distribución + 0.0266*joven + 0.0263*control + 0.0263*riqueza + 0.0263*proporción + 0.0263*pena + 0.0247*analista + 0.0233*rico + 0.0233*habitante + 0.0232*costumbre + 0.0232*abandono + 0.0230*miseria + 0.0230*fiesta + 0.0216*número + 0.0210*gente + 0.0193*práctica
+
+Topics for Article #5
+
+0.0255*monopolio + 0.0222*universidad + 0.0222*tinieblas + 0.0222*sal + 0.0222*ruina + 0.0222*remedio + 0.0222*mayúscula + 0.0222*inmunidad + 0.0222*expulsión + 0.0222*estudiante + 0.0222*demora + 0.0222*culpa + 0.0222*chiste + 0.0222*ambición + 0.0185*soberanía + 0.0185*registro + 0.0185*raza + 0.0185*patrimonio + 0.0185*oficio + 0.0185*mitad + 0.0185*masa + 0.0185*liquidez + 0.0185*ficción + 0.0163*síntoma + 0.0163*reserva
+
+Topics for Article #6
+
+0.0282*socialdemócrata + 0.0270*tono + 0.0270*socialistas + 0.0270*memoria + 0.0270*interpretación + 0.0270*hipótesis + 0.0270*conmoción + 0.0270*columna + 0.0227*pacto + 0.0225*producción + 0.0225*mutación + 0.0225*lectura + 0.0211*generación + 0.0198*suma + 0.0198*inteligencia + 0.0198*herida + 0.0197*presencia + 0.0185*tema + 0.0180*edad + 0.0180*costo + 0.0174*responsabilidad + 0.0165*ámbito + 0.0165*tránsito + 0.0165*potencia + 0.0165*etapa
+
+Topics for Article #7
+
+0.0159*recuerdo + 0.0159*maestro + 0.0158*tía + 0.0158*tubo + 0.0158*terror + 0.0158*sábana + 0.0158*riña + 0.0158*perro + 0.0158*pelo + 0.0158*pedazo + 0.0158*pecado + 0.0158*pata + 0.0158*ojo + 0.0158*novia + 0.0158*mueble + 0.0158*marido + 0.0158*líquido + 0.0158*lata + 0.0158*infancia + 0.0158*inconsciente + 0.0158*hombro + 0.0158*hija + 0.0158*gato + 0.0158*frescura + 0.0158*enfermedad
+
+Topics for Article #8
+
+0.0317*humanidad + 0.0300*superhombre + 0.0279*ideal + 0.0277*superación + 0.0277*religión + 0.0277*racismo + 0.0277*orientación + 0.0277*negación + 0.0277*nazismo + 0.0277*nacionalismo + 0.0277*imperio + 0.0277*fundamento + 0.0277*exposición + 0.0277*culminación + 0.0277*ama + 0.0277*afirmación + 0.0253*pensamiento + 0.0233*crítica + 0.0230*raza + 0.0230*espíritu + 0.0203*origen + 0.0203*muestra + 0.0184*época + 0.0184*arte + 0.0169*transformación
+
+Topics for Article #9
+
+0.0334*utopía + 0.0334*talento + 0.0334*selectividad + 0.0334*relieve + 0.0334*puesto + 0.0334*porro + 0.0334*orígenes + 0.0334*nombradía + 0.0334*milagros + 0.0334*manipulación + 0.0334*indio + 0.0334*directivas + 0.0334*colegiado + 0.0278*oficio + 0.0278*herramienta + 0.0278*espíritu + 0.0278*deficiencia + 0.0278*cabeza + 0.0278*altura + 0.0246*suerte + 0.0246*intelectuales + 0.0246*delincuencia + 0.0222*tipo + 0.0222*preocupación + 0.0222*destino
+
+Topics for Article #10
+
+0.0804*pintor + 0.0669*escasez + 0.0669*combustible + 0.0591*demócrata + 0.0586*mandatario + 0.0535*saludo + 0.0535*reelección + 0.0535*médico + 0.0535*legislatura + 0.0426*oposición + 0.0400*petróleo + 0.0377*idea + 0.0377*bolsa + 0.0357*actividad + 0.0339*visita + 0.0339*campaña + 0.0339*apoyo + 0.0322*miembro + 0.0292*industria + 0.0292*funcionario + 0.0204*frente + 0.0198*editorial + 0.0187*empresa + 0.0172*medida + 0.0150*fuerza
+
+Topics for Article #11
+
+0.0587*comunista + 0.0581*llamamiento + 0.0581*lesión + 0.0581*generalísimo + 0.0581*bestia + 0.0581*amanecer + 0.0484*barco + 0.0427*playa + 0.0427*juez + 0.0427*herida + 0.0386*batalla + 0.0355*avión + 0.0330*encuentro + 0.0289*educación + 0.0273*beneficio + 0.0264*guerra + 0.0258*revolución + 0.0258*actividad + 0.0245*jefe + 0.0221*delito + 0.0211*muerte + 0.0192*condición + 0.0168*paz + 0.0168*dirigente + 0.0168*chino
+
+Topics for Article #12
+
+0.0614*especulación + 0.0614*desequilibrios + 0.0614*aceptación + 0.0511*ritmo + 0.0451*vacío + 0.0451*privatizaciones + 0.0451*desgracia + 0.0409*solicitud + 0.0409*pieza + 0.0376*mensaje + 0.0376*disciplina + 0.0376*aeropuerto + 0.0349*arancel + 0.0306*criterio + 0.0273*plazo + 0.0273*carta + 0.0246*inversión + 0.0246*favor + 0.0234*recorte + 0.0234*coordinación + 0.0213*vía + 0.0206*paquete + 0.0178*aprobación + 0.0163*voto + 0.0156*frente
+
+Topics for Article #13
+
+0.0503*comportamiento + 0.0503*cancelación + 0.0503*boicot + 0.0503*aprendizaje + 0.0460*madurez + 0.0419*contexto + 0.0419*bloqueo + 0.0370*ventaja + 0.0370*reacción + 0.0370*comentario + 0.0335*instrumento + 0.0335*banquero + 0.0308*señal + 0.0308*pluralismo + 0.0308*patronal + 0.0308*niño + 0.0308*convicción + 0.0285*pérdida + 0.0267*margen + 0.0267*asociación + 0.0251*finanzas + 0.0251*expectativa + 0.0251*déficit + 0.0236*salida + 0.0192*capacidad
+
+Topics for Article #14
+
+0.0712*solvencia + 0.0712*ejecutiva + 0.0712*contribución + 0.0523*lección + 0.0523*golpe + 0.0523*estilo + 0.0474*toma + 0.0436*disciplina + 0.0404*imagen + 0.0404*debate + 0.0378*margen + 0.0378*democracia + 0.0378*anuncio + 0.0355*incertidumbre + 0.0355*consecuencia + 0.0285*serie + 0.0271*recorte + 0.0247*periodo + 0.0215*negociación + 0.0197*esfuerzo + 0.0183*fuerza + 0.0175*editorial + 0.0173*trabajo + 0.0173*deber + 0.0166*discusión
+
+Topics for Article #15
+
+0.0555*simpatía + 0.0555*selva + 0.0555*minoría + 0.0462*pleito + 0.0462*entendimiento + 0.0462*conciencia + 0.0408*ventaja + 0.0408*progreso + 0.0408*obispo + 0.0408*mesa + 0.0368*indígena + 0.0340*transformación + 0.0340*contaminación + 0.0315*encuentro + 0.0295*arma + 0.0277*gobernador + 0.0277*compromiso + 0.0277*amenaza + 0.0261*beneficio + 0.0253*atención + 0.0247*sociedad + 0.0222*favor + 0.0202*solución + 0.0176*derecho + 0.0168*negociación
+
+Topics for Article #16
+
+0.0160*venganza + 0.0141*privatizaciones + 0.0141*opositor + 0.0140*revisión + 0.0140*polémica + 0.0140*perdedor + 0.0140*izquierda + 0.0140*imposición + 0.0140*hueco + 0.0140*espectro + 0.0140*contratación + 0.0140*cobro + 0.0140*ascua + 0.0140*acreedor + 0.0134*tribuna + 0.0128*fuente + 0.0117*billón + 0.0116*técnico + 0.0116*tope + 0.0116*texto + 0.0116*sonrisa + 0.0116*rostro + 0.0116*requisito + 0.0116*medianoche + 0.0116*marca
+
+Topics for Article #17
+
+0.0271*ajuste + 0.0262*rescate + 0.0262*programación + 0.0262*edición + 0.0259*saneamiento + 0.0259*electricidad + 0.0259*alimentación + 0.0259*agricultura + 0.0237*madrugada + 0.0218*billón + 0.0216*medianoche + 0.0216*equivalente + 0.0216*combustible + 0.0216*asesoría + 0.0202*instituto + 0.0191*llegada + 0.0191*disminución + 0.0191*difusión + 0.0189*recorte + 0.0185*fracción + 0.0173*malestar + 0.0173*adquisición + 0.0159*meta + 0.0159*estudio + 0.0158*cierre
+
+Topics for Article #18
+
+0.0122*reproducción + 0.0122*exportadores + 0.0122*cero + 0.0122*captación + 0.0116*minuto + 0.0108*dignidad + 0.0107*rosa + 0.0107*promotor + 0.0107*pasillo + 0.0107*instauración + 0.0107*guía + 0.0107*federación + 0.0107*consideración + 0.0107*carga + 0.0107*canibalismo + 0.0107*batería + 0.0107*agujero + 0.0098*malestar + 0.0098*exigencia + 0.0097*modificación + 0.0090*emergencia + 0.0089*reducción + 0.0089*tratamiento + 0.0089*transparencia + 0.0089*ritmo
+
+Topics for Article #19
+
+0.0078*entorno + 0.0078*activo + 0.0077*sustitución + 0.0077*intermediario + 0.0071*marcha + 0.0071*desconfianza + 0.0071*concertación + 0.0071*banquero + 0.0071*arreglo + 0.0070*patronal + 0.0070*centavo + 0.0068*responsable + 0.0068*perspectiva + 0.0068*lección + 0.0068*envío + 0.0068*bloque + 0.0068*índole + 0.0068*rehén + 0.0068*productora + 0.0068*prioridad + 0.0068*preservación + 0.0068*especialista + 0.0068*ente + 0.0068*emisora + 0.0068*eficacia
+
+Topics for Article #20
+
+0.0140*peligro + 0.0140*definición + 0.0128*saludo + 0.0128*estructura + 0.0124*obispo + 0.0124*credibilidad + 0.0123*sierra + 0.0123*respaldo + 0.0123*prosperidad + 0.0123*preferencia + 0.0123*precisión + 0.0123*pereza + 0.0123*inmediaciones + 0.0123*extinción + 0.0123*explosivo + 0.0123*especie + 0.0123*escopeta + 0.0123*dinámica + 0.0123*desplazados + 0.0123*cumplimiento + 0.0123*configuración + 0.0123*compuesto + 0.0123*choque + 0.0123*autoestima + 0.0123*abrazo
+
+Topics for Article #21
+
+0.0249*coalición + 0.0246*volante + 0.0246*movilización + 0.0246*edificio + 0.0246*capricho + 0.0246*boletín + 0.0205*simpatizantes + 0.0205*prensa + 0.0205*posesión + 0.0205*instancia + 0.0205*instalación + 0.0205*catedral + 0.0205*agresión + 0.0184*municipio + 0.0182*ayuntamiento + 0.0181*versión + 0.0181*trato + 0.0181*plaza + 0.0181*manifestación + 0.0181*independientes + 0.0181*estabilidad + 0.0181*edición + 0.0164*toma + 0.0164*tipo + 0.0164*previsión
+
+Topics for Article #22
+
+0.0167*ruptura + 0.0147*caridad + 0.0145*vitalidad + 0.0145*sufrimiento + 0.0145*presagio + 0.0145*milenio + 0.0145*dificultad + 0.0145*descuento + 0.0145*degradación + 0.0145*canasta + 0.0145*alusión + 0.0145*ala + 0.0133*pronóstico + 0.0122*balance + 0.0121*tamaño + 0.0121*solidaridad + 0.0121*rumbo + 0.0121*monseñor + 0.0121*honradez + 0.0121*ganador + 0.0121*abismo + 0.0113*iglesia + 0.0107*tortilla + 0.0107*síntoma + 0.0107*semestre
+
+Topics for Article #23
+
+0.0072*espionaje + 0.0071*veintena + 0.0071*tejido + 0.0071*discapacitados + 0.0071*codo + 0.0071*abuso + 0.0064*mando + 0.0063*prevención + 0.0063*inseguridad + 0.0063*gobernante + 0.0063*delincuencia + 0.0062*vicio + 0.0062*taxi + 0.0062*sufragio + 0.0062*sombra + 0.0062*sazón + 0.0062*sabotaje + 0.0062*rosario + 0.0062*revuelo + 0.0062*refugio + 0.0062*peña + 0.0062*patrona + 0.0062*mercancía + 0.0062*malhechor + 0.0062*llave
+
+Topics for Article #24
+
+0.0045*parlamento + 0.0045*israelí + 0.0045*tropa + 0.0045*represión + 0.0045*provincia + 0.0045*legado + 0.0045*guerrillero + 0.0045*encargada + 0.0045*desarme + 0.0045*bombardeo + 0.0045*alarma + 0.0044*india + 0.0044*ensayo + 0.0041*ruso + 0.0041*aliado + 0.0041*accidente + 0.0040*escándalo + 0.0040*década + 0.0039*recesión + 0.0039*carrera + 0.0039*amiga + 0.0039*órbita + 0.0039*zar + 0.0039*visión + 0.0039*virus
+
+Topics for Article #25
+
+0.0089*prudencia + 0.0089*porvenir + 0.0089*espectador + 0.0089*contienda + 0.0089*cacique + 0.0081*sucesor + 0.0081*sucesión + 0.0081*selección + 0.0078*designación + 0.0078*demócrata + 0.0078*aspiración + 0.0077*árbol + 0.0077*árbitro + 0.0077*víspera + 0.0077*vicisitud + 0.0077*sangre + 0.0077*radio + 0.0077*panorama + 0.0077*nobleza + 0.0077*nave + 0.0077*legítimas + 0.0077*investidura + 0.0077*hoja + 0.0077*fiel + 0.0077*extrañeza
+
+Topics for Article #26
+
+0.0048*recorrido + 0.0048*magnitud + 0.0048*insistencia + 0.0048*descanso + 0.0048*bonanza + 0.0044*negativa + 0.0043*escenario + 0.0042*turista + 0.0042*ruta + 0.0042*gobernabilidad + 0.0042*confrontación + 0.0042*vapor + 0.0042*trayectoria + 0.0042*tonelada + 0.0042*tela + 0.0042*sensatez + 0.0042*rumor + 0.0042*rosca + 0.0042*receta + 0.0042*protocolo + 0.0042*precandidato + 0.0042*posicionamiento + 0.0042*perfil + 0.0042*parálisis + 0.0042*palmada
+
+Topics for Article #27
+
+0.0139*transacción + 0.0138*interconexión + 0.0138*corredor + 0.0138*billete + 0.0126*verano + 0.0126*lanzamiento + 0.0126*ganancia + 0.0122*pago + 0.0122*opción + 0.0122*muro + 0.0122*holandés + 0.0120*núcleo + 0.0120*liquidación + 0.0120*inversores + 0.0120*hotel + 0.0120*globo + 0.0120*fase + 0.0120*expiración + 0.0120*escudo + 0.0120*conversión + 0.0120*circulación + 0.0120*bondad + 0.0120*alcohol + 0.0116*nostalgia + 0.0116*operador
+
+Topics for Article #28
+
+0.0597*ciclo + 0.0477*repunte + 0.0468*mejora + 0.0438*variación + 0.0434*tamaño + 0.0434*indicador + 0.0434*impulso + 0.0407*desempeño + 0.0383*recesión + 0.0383*desempleo + 0.0380*investigación + 0.0380*factor + 0.0347*vigor + 0.0328*incremento + 0.0319*economista + 0.0276*margen + 0.0276*consumidor + 0.0260*informe + 0.0260*expectativa + 0.0248*índice + 0.0245*tasa + 0.0245*cifra + 0.0245*bolsa + 0.0199*demanda + 0.0199*aumento
+
+Topics for Article #29
+
+0.0125*hogar + 0.0125*don + 0.0125*adulto + 0.0110*madre + 0.0110*matrimonio + 0.0109*socia + 0.0109*sabiduría + 0.0109*rincón + 0.0109*placer + 0.0109*perdón + 0.0109*olvido + 0.0109*macho + 0.0109*influencia + 0.0109*impresión + 0.0109*formación + 0.0109*felicidad + 0.0109*fax + 0.0109*extensión + 0.0109*estrella + 0.0109*envidia + 0.0109*distracción + 0.0109*deporte + 0.0109*célula + 0.0109*correo + 0.0109*compañera
+
+Topics for Article #30
+
+0.0311*liberalización + 0.0275*destrucción + 0.0275*apertura + 0.0272*saca + 0.0272*premura + 0.0272*negociador + 0.0272*industrialización + 0.0272*globalización + 0.0272*dogma + 0.0272*contrabando + 0.0272*acero + 0.0229*planta + 0.0229*entrada + 0.0227*cadena + 0.0227*quiebra + 0.0227*firma + 0.0227*cerveza + 0.0227*aspecto + 0.0200*tendencia + 0.0200*productor + 0.0200*origen + 0.0200*intelectuales + 0.0200*confrontación + 0.0181*vigor + 0.0181*modernización
+
+Topics for Article #31
+
+0.0253*volatilidad + 0.0251*sueca + 0.0251*solidez + 0.0251*recta + 0.0251*preparación + 0.0251*mente + 0.0251*libra + 0.0251*impacto + 0.0251*despegue + 0.0251*corona + 0.0251*contraste + 0.0251*calma + 0.0251*aprieto + 0.0241*economista + 0.0229*inestabilidad + 0.0209*proporción + 0.0209*período + 0.0209*mapa + 0.0209*fortaleza + 0.0196*intercambio + 0.0184*área + 0.0184*ventaja + 0.0169*divisa + 0.0167*ruso + 0.0167*prueba
+
+Topics for Article #32
+
+0.0305*telefonía + 0.0305*orbe + 0.0266*retiro + 0.0266*rentabilidad + 0.0266*punta + 0.0266*paradoja + 0.0266*ira + 0.0266*eficiencia + 0.0266*bien + 0.0243*clave + 0.0222*recaudación + 0.0222*infraestructura + 0.0222*barril + 0.0208*terreno + 0.0208*arancel + 0.0196*salario + 0.0196*productor + 0.0196*plataforma + 0.0196*golpe + 0.0196*bloque + 0.0177*pieza + 0.0177*modernización + 0.0177*barrio + 0.0167*inversión + 0.0163*escenario
+
+Topics for Article #33
+
+0.0458*estabilidad + 0.0454*vespertino + 0.0454*monde + 0.0454*aceleración + 0.0382*déficit + 0.0378*sede + 0.0378*nombramiento + 0.0354*reino + 0.0333*mandato + 0.0333*holandés + 0.0333*desempleo + 0.0333*atractivo + 0.0302*dirección + 0.0302*clave + 0.0277*pacto + 0.0277*naturaleza + 0.0277*entrevista + 0.0277*equilibrio + 0.0257*terreno + 0.0241*éxito + 0.0241*reducción + 0.0226*gobernador + 0.0216*periodo + 0.0202*plazo + 0.0202*cabo
+
+Topics for Article #34
+
+0.0385*cartera + 0.0340*manejo + 0.0336*tienda + 0.0336*regeneración + 0.0336*inversionistas + 0.0336*incorporación + 0.0336*incomprensión + 0.0336*enseñanza + 0.0336*dueño + 0.0336*carne + 0.0336*calificación + 0.0283*fórmula + 0.0280*legislación + 0.0280*cantidad + 0.0280*actor + 0.0263*cultura + 0.0247*sentimiento + 0.0224*obligación + 0.0224*batalla + 0.0205*dinero + 0.0201*riesgo + 0.0201*base + 0.0195*crédito + 0.0191*análisis + 0.0191*actuación
+
+Topics for Article #35
+
+0.0205*internet + 0.0179*regulación + 0.0179*ginebra + 0.0179*fusión + 0.0179*convenio + 0.0179*compensación + 0.0179*combinado + 0.0179*banda + 0.0179*apogeo + 0.0179*tecnología + 0.0172*televisión + 0.0171*cable + 0.0169*cliente + 0.0159*compañía + 0.0158*telecomunicación + 0.0151*llamada + 0.0150*competencia + 0.0150*dato + 0.0149*tráfico + 0.0149*transmisión + 0.0149*transferencia + 0.0149*patrón + 0.0149*fenómeno + 0.0149*esencia + 0.0149*equivalente
+
+Topics for Article #36
+
+0.0187*vuelo + 0.0187*localidades + 0.0187*auge + 0.0165*aldea + 0.0163*taxista + 0.0163*tarjeta + 0.0163*restaurante + 0.0163*pollo + 0.0163*operadora + 0.0163*muchacha + 0.0163*localidad + 0.0163*invitado + 0.0163*inmigrante + 0.0163*flujo + 0.0163*estatus + 0.0163*cosecha + 0.0163*aerolíneas + 0.0157*regreso + 0.0150*autobús + 0.0150*auto + 0.0137*avión + 0.0136*permiso + 0.0136*patrón + 0.0136*bendición + 0.0136*autorización
+
+Topics for Article #37
+
+0.0273*obrero + 0.0236*vigencia + 0.0236*sindicato + 0.0236*repercusión + 0.0236*reclamo + 0.0236*prometido + 0.0236*optimismo + 0.0236*movilizaciones + 0.0236*alegría + 0.0199*protesta + 0.0197*posesión + 0.0197*plano + 0.0197*oriente + 0.0197*legislación + 0.0197*entusiasmo + 0.0188*inflación + 0.0174*cifra + 0.0174*tensión + 0.0174*síntoma + 0.0174*regalo + 0.0174*maestro + 0.0174*limitación + 0.0174*explotación + 0.0174*discurso + 0.0174*abandono
+
+Topics for Article #38
+
+0.0845*petición + 0.0845*beneficios + 0.0697*jardín + 0.0697*coyuntura + 0.0653*oportunidad + 0.0557*agenda + 0.0485*foro + 0.0475*señor + 0.0475*cuestión + 0.0444*plan + 0.0417*petróleo + 0.0393*creación + 0.0304*director + 0.0290*ciudadano + 0.0277*empleo + 0.0269*propuesta + 0.0232*interés + 0.0225*forma + 0.0203*necesidad + 0.0203*desarrollo + 0.0195*precio + 0.0195*empresa + 0.0195*discusión + 0.0187*iniciativa + 0.0179*paquete
+
+Topics for Article #39
+
+0.0353*soledad + 0.0353*película + 0.0353*garantía + 0.0353*espectacularidad + 0.0353*afecto + 0.0353*adelanto + 0.0294*testigo + 0.0294*ficción + 0.0275*señor + 0.0259*salón + 0.0259*misiva + 0.0259*mesa + 0.0259*llegada + 0.0259*cosa + 0.0259*científico + 0.0257*campo + 0.0235*promedio + 0.0235*lector + 0.0235*equipo + 0.0235*duda + 0.0235*batalla + 0.0216*respeto + 0.0204*foro + 0.0200*generación + 0.0200*esposa
+
+Topics for Article #40
+
+0.0731*convocante + 0.0609*intención + 0.0537*publicación + 0.0537*liberación + 0.0533*fecha + 0.0519*consulta + 0.0447*convocatoria + 0.0447*comunicado + 0.0423*foro + 0.0415*señor + 0.0364*tema + 0.0364*carácter + 0.0343*ejército + 0.0343*causa + 0.0325*opinión + 0.0325*consejo + 0.0318*derecho + 0.0278*pleno + 0.0278*ejercicio + 0.0265*director + 0.0253*ciudadano + 0.0197*reforma + 0.0178*necesidad + 0.0163*iniciativa + 0.0156*ciudad
+
+Topics for Article #41
+
+0.0483*directora + 0.0426*integración + 0.0422*cocaína + 0.0310*usuario + 0.0310*sección + 0.0310*publicación + 0.0310*misiva + 0.0310*escuela + 0.0310*difusión + 0.0310*bienestar + 0.0307*droga + 0.0307*dato + 0.0286*uso + 0.0281*página + 0.0281*león + 0.0281*importancia + 0.0281*acto + 0.0272*dependencia + 0.0258*objetivo + 0.0244*foro + 0.0244*apoyo + 0.0239*titular + 0.0239*señor + 0.0221*información + 0.0210*informe
+
+Topics for Article #42
+
+0.0230*táctica + 0.0230*trigo + 0.0230*labio + 0.0230*garra + 0.0230*flor + 0.0230*botón + 0.0192*verdad + 0.0192*profundidad + 0.0192*pregunta + 0.0192*patrimonio + 0.0192*oro + 0.0192*letra + 0.0192*instalación + 0.0192*hospital + 0.0192*eje + 0.0192*colaboración + 0.0192*albergue + 0.0182*asistencia + 0.0169*víctima + 0.0169*sentencia + 0.0169*desgracia + 0.0169*caridad + 0.0169*afectados + 0.0168*leyes + 0.0164*ayuda
+
+Topics for Article #43
+
+0.0251*tensión + 0.0248*vicepresidenta + 0.0248*régimen + 0.0248*propiedad + 0.0248*presidenta + 0.0248*mediodía + 0.0248*lindeza + 0.0248*conducto + 0.0238*diputada + 0.0227*clima + 0.0207*recinto + 0.0207*prensa + 0.0207*manta + 0.0207*establecimiento + 0.0207*eje + 0.0207*comerciante + 0.0207*castillo + 0.0182*salón + 0.0182*muro + 0.0182*grito + 0.0182*disposición + 0.0182*conferencia + 0.0165*propósito + 0.0165*exigencia + 0.0165*costo
+
+Topics for Article #44
+
+0.0181*rehabilitación + 0.0180*multa + 0.0164*facultad + 0.0159*disminución + 0.0159*contribuyente + 0.0157*vendedor + 0.0157*tren + 0.0157*propietario + 0.0157*mantenimiento + 0.0157*desacuerdo + 0.0157*decreto + 0.0157*coma + 0.0157*circo + 0.0157*chica + 0.0157*certidumbre + 0.0157*capítulo + 0.0151*carro + 0.0144*adquisición + 0.0132*continuación + 0.0132*construcción + 0.0131*metro + 0.0131*techo + 0.0131*suelo + 0.0131*reconstrucción + 0.0131*entrega
+
+Topics for Article #45
+
+0.0442*migración + 0.0442*material + 0.0372*beneplácito + 0.0368*satisfacción + 0.0368*reconstrucción + 0.0368*lazo + 0.0368*daño + 0.0368*aspecto + 0.0368*amistad + 0.0325*lugar + 0.0325*huracán + 0.0325*científico + 0.0294*narcotráfico + 0.0294*marco + 0.0294*león + 0.0294*hoyo + 0.0294*agenda + 0.0286*blanco + 0.0270*respeto + 0.0256*asunto + 0.0252*reunión + 0.0251*intercambio + 0.0251*encuentro + 0.0251*deseo + 0.0251*cooperación
+
+Topics for Article #46
+
+0.0619*desempleados + 0.0619*beca + 0.0566*vacante + 0.0541*taller + 0.0495*solicitud + 0.0450*conocimiento + 0.0398*reyes + 0.0398*lapso + 0.0398*demandante + 0.0360*puestos + 0.0360*previsión + 0.0360*modernización + 0.0360*esquema + 0.0331*centavo + 0.0328*empleo + 0.0313*trabajador + 0.0287*participación + 0.0269*informe + 0.0269*entidad + 0.0269*calidad + 0.0240*competencia + 0.0240*cabo + 0.0240*actividad + 0.0206*ejercicio + 0.0198*empresa
+
+Topics for Article #47
+
+0.0106*germen + 0.0106*elegido + 0.0106*electos + 0.0106*electorado + 0.0096*bandera + 0.0093*pronunciamiento + 0.0093*miedo + 0.0093*derecha + 0.0092*victoria + 0.0092*silla + 0.0092*sesenta + 0.0092*proliferación + 0.0092*pelea + 0.0092*oído + 0.0092*nacionalistas + 0.0092*método + 0.0092*militante + 0.0092*militancia + 0.0092*mentira + 0.0092*manera + 0.0092*invento + 0.0092*fila + 0.0092*expresión + 0.0092*escena + 0.0092*entrenamiento
+
+Topics for Article #48
+
+0.0502*tolerancia + 0.0485*muestra + 0.0480*tinte + 0.0480*planteamiento + 0.0480*pacificación + 0.0480*mira + 0.0480*legalidad + 0.0353*comicios + 0.0350*actitud + 0.0329*función + 0.0318*indígena + 0.0294*sureste + 0.0294*respuesta + 0.0273*extremo + 0.0264*consulta + 0.0255*estrategia + 0.0255*diálogo + 0.0247*conflicto + 0.0239*contrario + 0.0228*negociación + 0.0226*salida + 0.0226*posición + 0.0226*causa + 0.0213*sociedad + 0.0200*movimiento
+
+Topics for Article #49
+
+0.0368*argumento + 0.0322*rigor + 0.0322*ratificación + 0.0322*intromisión + 0.0294*votación + 0.0268*trámite + 0.0268*suelo + 0.0268*nombramiento + 0.0268*indignación + 0.0268*directiva + 0.0237*creación + 0.0236*vivienda + 0.0236*secretaria + 0.0236*isla + 0.0236*designación + 0.0236*demandante + 0.0235*tribunal + 0.0214*vacante + 0.0214*león + 0.0214*fuente + 0.0197*protesta + 0.0197*construcción + 0.0193*pleno + 0.0186*fracción + 0.0183*parte
+
+Topics for Article #50
+
+0.0521*vocación + 0.0521*serenidad + 0.0455*renovación + 0.0455*plenitud + 0.0455*cristalización + 0.0455*consejero + 0.0379*período + 0.0379*obstáculo + 0.0379*impulso + 0.0379*gusto + 0.0334*partidistas + 0.0334*misiva + 0.0334*lapso + 0.0312*carácter + 0.0303*reelección + 0.0286*familiar + 0.0278*logro + 0.0278*convicción + 0.0278*comunicado + 0.0278*cabo + 0.0258*instituto + 0.0258*fortalecimiento + 0.0250*tarea + 0.0241*reto + 0.0214*labor
+
+Topics for Article #51
+
+0.0641*huracán + 0.0635*poblador + 0.0635*piedra + 0.0528*visitantes + 0.0528*bendición + 0.0528*arranque + 0.0468*papa + 0.0466*escuela + 0.0466*afectados + 0.0435*complejo + 0.0422*puerto + 0.0388*vecino + 0.0368*apoyo + 0.0360*acontecimiento + 0.0316*joven + 0.0298*habitante + 0.0298*beneficio + 0.0282*conjunto + 0.0267*visita + 0.0267*paso + 0.0254*siglo + 0.0230*ser + 0.0195*autoridad + 0.0184*casa + 0.0168*centro
+
+Topics for Article #52
+
+0.0380*decenio + 0.0377*vicepresidente + 0.0329*unanimidad + 0.0329*aportación + 0.0329*agrupación + 0.0278*informe + 0.0275*asociación + 0.0274*capacitación + 0.0257*cooperación + 0.0254*protección + 0.0242*área + 0.0242*técnica + 0.0242*prevención + 0.0242*conferencia + 0.0242*científico + 0.0240*reducción + 0.0240*mejora + 0.0219*responsables + 0.0219*propósito + 0.0219*marco + 0.0219*experiencia + 0.0218*organismo + 0.0201*ámbito + 0.0201*entrada + 0.0201*costa
+
+Topics for Article #53
+
+0.0343*cupo + 0.0337*maíz + 0.0303*compra + 0.0299*sequía + 0.0299*ramo + 0.0299*procesados + 0.0299*grano + 0.0299*alimento + 0.0299*acceso + 0.0282*importación + 0.0269*exportación + 0.0252*límite + 0.0249*producción + 0.0249*firma + 0.0249*escasez + 0.0249*cerveza + 0.0220*área + 0.0220*trato + 0.0220*tortilla + 0.0220*semestre + 0.0220*productor + 0.0199*venta + 0.0199*introducción + 0.0199*hoyo + 0.0199*esquema
+
+Topics for Article #54
+
+0.0428*estupefaciente + 0.0391*narcotráfico + 0.0378*liderazgo + 0.0374*narcotraficante + 0.0352*droga + 0.0311*sustancia + 0.0311*empleado + 0.0292*oficina + 0.0292*cooperación + 0.0275*secretaria + 0.0275*reconocimiento + 0.0275*progreso + 0.0275*fortuna + 0.0275*combate + 0.0273*corrupción + 0.0249*obligación + 0.0249*delincuente + 0.0249*corazón + 0.0249*consumo + 0.0242*tráfico + 0.0229*balance + 0.0228*documento + 0.0198*reto + 0.0198*leyes + 0.0198*control
+
+Topics for Article #55
+
+0.0243*profesor + 0.0230*alba + 0.0214*versión + 0.0214*predicción + 0.0214*artista + 0.0212*ética + 0.0212*trío + 0.0212*susto + 0.0212*medicina + 0.0212*hermano + 0.0212*exilio + 0.0212*desaparición + 0.0212*copa + 0.0212*contradicción + 0.0212*cantante + 0.0212*azar + 0.0204*personaje + 0.0194*significado + 0.0194*identidad + 0.0178*carro + 0.0177*devaluación + 0.0177*descontento + 0.0177*caja + 0.0177*acierto + 0.0156*semestre
+
+Topics for Article #56
+
+0.0402*peaje + 0.0402*pasajero + 0.0368*sitio + 0.0368*puerto + 0.0368*autobús + 0.0361*carretera + 0.0358*vigilancia + 0.0338*operativo + 0.0335*turismo + 0.0335*sustancia + 0.0300*transporte + 0.0295*usuario + 0.0295*urgencia + 0.0295*temporada + 0.0267*motivo + 0.0267*marcha + 0.0267*accidente + 0.0246*vehículo + 0.0246*tránsito + 0.0246*emergencia + 0.0245*efecto + 0.0228*operador + 0.0228*objeto + 0.0213*tarifa + 0.0210*coordinación
+
+Topics for Article #57
+
+0.0467*cadáver + 0.0426*periodista + 0.0412*juez + 0.0408*prenda + 0.0408*foto + 0.0373*asesinato + 0.0343*variación + 0.0343*domicilio + 0.0339*puente + 0.0339*autor + 0.0339*asesoría + 0.0318*esposa + 0.0300*vivienda + 0.0300*resolución + 0.0300*ministerio + 0.0297*prisión + 0.0271*violación + 0.0271*río + 0.0271*auto + 0.0271*ampliación + 0.0249*división + 0.0249*término + 0.0231*instituto + 0.0229*declaración + 0.0216*defensa
+
+Topics for Article #58
+
+0.0157*teniente + 0.0157*secuestro + 0.0157*comando + 0.0155*persecución + 0.0155*coronel + 0.0142*denuncia + 0.0142*agencia + 0.0137*procurador + 0.0137*ministerio + 0.0137*automóvil + 0.0136*quema + 0.0136*porqué + 0.0136*modelo + 0.0136*milímetro + 0.0136*malversación + 0.0136*intimidación + 0.0136*integridad + 0.0136*guardia + 0.0136*futbolista + 0.0136*copia + 0.0136*autopista + 0.0136*atacante + 0.0136*acoso + 0.0130*domicilio + 0.0124*individuo
+
+Topics for Article #59
+
+0.0827*horario + 0.0655*color + 0.0602*colectivo + 0.0597*permiso + 0.0597*jefatura + 0.0597*estación + 0.0526*usuario + 0.0526*aplicación + 0.0438*vehículo + 0.0438*contaminación + 0.0415*transporte + 0.0407*inicio + 0.0380*metro + 0.0357*red + 0.0336*dependencia + 0.0326*condición + 0.0318*cierre + 0.0302*organismo + 0.0248*línea + 0.0217*índice + 0.0190*zona + 0.0174*noticia + 0.0169*programa + 0.0161*sistema + 0.0160*autoridad
+
+Topics for Article #60
+
+0.0380*helada + 0.0377*aire + 0.0332*grado + 0.0332*frío + 0.0329*viento + 0.0329*península + 0.0329*mm + 0.0329*carrillo + 0.0329*baja + 0.0329*afluencia + 0.0328*lluvia + 0.0316*sureste + 0.0316*noreste + 0.0301*sur + 0.0277*hidalgo + 0.0274*oriente + 0.0274*nube + 0.0274*masa + 0.0269*cielo + 0.0261*temperatura + 0.0257*extremo + 0.0219*puerto + 0.0219*constitución + 0.0201*variación + 0.0201*costa
+
+Topics for Article #61
+
+0.0854*partícula + 0.0854*ozono + 0.0740*suroeste + 0.0740*sondeo + 0.0740*molestia + 0.0740*humedad + 0.0622*noreste + 0.0544*contenido + 0.0452*sureste + 0.0452*norma + 0.0452*límite + 0.0452*contaminación + 0.0308*zona + 0.0296*inversión + 0.0272*punto + 0.0245*condición + 0.0214*región + 0.0196*centro + 0.0188*nivel + 0.0180*noticia + 0.0158*medida + 0.0105*comisión + 0.0101*hora + 0.0086*persona + 0.0024*día
+
+Topics for Article #62
+
+0.0546*reo + 0.0493*cárcel + 0.0481*playa + 0.0476*motín + 0.0397*raíz + 0.0397*peligrosidad + 0.0397*entrega + 0.0373*preso + 0.0372*vigilancia + 0.0350*procurador + 0.0350*lugar + 0.0347*investigación + 0.0326*puerta + 0.0308*ayuntamiento + 0.0291*operativo + 0.0291*falta + 0.0276*agua + 0.0270*sujeto + 0.0253*arma + 0.0250*responsabilidad + 0.0237*consecuencia + 0.0201*resto + 0.0181*nombre + 0.0181*demanda + 0.0181*cargo
+
