@@ -99,9 +99,11 @@ try:
         reviews = pickle.load(f)
     with open(preprocessed_path + "labels.pkl", "rb") as f:
         Y = pickle.load(f)
+
     print("Loaded Reviews/Vocabulary...")
 except:
     print("Computing Reviews/Vocabulary...")
+
     corpusFiles = glob.glob(corpus_path)
     m = len(corpusFiles)
     Y = [ 0 for x in range(0, m) ]
@@ -161,19 +163,40 @@ from numpy import array as NPArray
 X = NPMatrix(X)
 Y = NPArray(Y)
 
-from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
+from mord import LogisticIT 
 
-from sklearn.linear_model import LogisticRegression
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.naive_bayes import MultinomialNB
-from sklearn.svm import LinearSVC
+XTest = None
+model = None
+YTest = None
 
-XTrain, XTest, YTrain, YTest = train_test_split(X, Y, test_size = 0.2)
+try:
+    with open(preprocessed_path + "xtest.pkl", "rb") as f:
+        XTest = pickle.load(f)
+    with open(preprocessed_path + "ytest.pkl", "rb") as f:
+        YTest = pickle.load(f)
+    with open(preprocessed_path + "model.pkl", "rb") as f:
+        model = pickle.load(f)
 
-#model = KNeighborsClassifier() 
-model = MultinomialNB() 
-model.fit(XTrain, YTrain)
+    print("Loaded Model...")
+except:
+    print("Training Model...")
+
+    from sklearn.model_selection import train_test_split
+
+    XTrain, XTest, YTrain, YTest = train_test_split(X, Y, test_size = 0.2)
+    model = LogisticIT(max_iter = 100) 
+    model.fit(XTrain, YTrain)
+
+    with open(preprocessed_path + "xtest.pkl", "wb") as f:
+        pickle.dump(XTest, f, pickle.HIGHEST_PROTOCOL)
+    with open(preprocessed_path + "ytest.pkl", "wb") as f:
+        pickle.dump(YTest, f, pickle.HIGHEST_PROTOCOL)
+    with open(preprocessed_path + "model.pkl", "wb") as f:
+        pickle.dump(model, f, pickle.HIGHEST_PROTOCOL)
+
+    print("Done")
+
 predicted = model.predict(XTest)
 
 print("Accuracy of prediction is : ", model.score(XTest, YTest) * 100)
